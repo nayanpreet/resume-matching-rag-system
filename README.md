@@ -1,4 +1,5 @@
 # AI-Powered Resume Matching & Candidate Scoring System
+## Author - Nayanpreet Chhabra
 
 An end-to-end AI-powered Resume Matching System that uses:
 
@@ -97,6 +98,3 @@ resume_matching_project/
 ├── output/
 └── README.md
 
-
-Author
-Nayanpreet Chhabra
